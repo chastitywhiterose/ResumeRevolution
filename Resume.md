@@ -17,8 +17,7 @@
 
 ## Summary
 
-Chastity is a writer with a focus on making Chess accessible to low-income people through free and open source 
-software. She uses words, videos, and graphic design to teach Chess and computer software.
+Chastity is a writer who specialized on teaching intelligent activities like Chess and computer Programming accessible to low-income people with books and Free and Open Source Software. She makes no money from these things and works grocery store jobs to survive.
 
 ## Skills
 
@@ -27,7 +26,8 @@ software. She uses words, videos, and graphic design to teach Chess and computer
 - Graphic Design (Inkscape and GIMP)
 - Video Recording (OBS-Studio, Zoom, StreamYard)
 - Audio/Video Editing (Audacity, Kdenlive)
-- Book Publishing (Kindle Direct Publishing, Draft2Digital)
+- Book Publishing (Kindle Direct Publishing, Draft2Digital,Leanpub)
+- Computer Programming (C, Assembly)
 
 ## Education
 
@@ -39,20 +39,31 @@ software. She uses words, videos, and graphic design to teach Chess and computer
 
 ## Wal-Mart
 
-- Overnight Stock Team Associate - September 2023 - Present
+### Overnight Maintenance Associate - October 2025 - Present
+
+- Sweeps, mops, and scrubs floors with proper equipment
+- Loads and unloads trucks
+- Makes cardboard bales
+- Cleans bathrooms and empties trash of whole store
+
+### Overnight Stock Team Associate - September 2023 - October 2025
+
 - Stocked Food and General Merchandise until 5 AM. Moved to other departments as instructed.
 - Removed all trash and pallets from floor before customers arrive at store opening and then assist customers in locating and purchasing merchandise. Organized shelves until 7 AM.
 - Start work in assigned area at 10 PM. Report work progress to Coaches and Team Leads through the night.
 
 ## GameStop
-- Game Advisor - June 2022 - February 2024
+
+### Game Advisor - June 2022 - February 2024
+
 - Greeted customers and sold requested games and merchandise.
 - Answered technical questions based on experience and reading materials employees were given.
 - Promoted Gamestop Pro-Membership and explained how it saves money to recurring customers of over $60 annually.
 
 ## Hy-Vee
 
-- Floral Clerk and other Departments - October 2012 - July 2023
+### Floral Clerk and other Departments - October 2012 - July 2023
+
 - Stocked Health Market and Health and Beauty Department.
 - Wrote down Floral Delivery orders both in person and over the phone. Prepared these orders for pickup or delivery. Acted as Cashier at Floral Register. Regularly served over 100 customers on each Valentine's Day and Mother's Day.
 - Sold items to customers, watered plants, and cleaned the shop before closing at 7 PM.
@@ -67,10 +78,7 @@ files per hour.
 ## Book Publications
 
 - [Chastity's Chess Chapters](https://www.amazon.com/dp/B0F44DG4XD) - authored a 100 page paperback and e-book to train Chess players.
+- [Assembly Arithmetic Algorithms-DOS](https://leanpub.com/assemblyarithmeticalgorithms-dos) - authored a book on Assembly language for the DOS operating system.
+- [Minimal Markdown for Authors](https://www.amazon.com/Minimal-Markdown-Authors-Publish-Software/dp/B0FJ7HHLK8) - How to Write and Publish a Book Using Open Source Software
 - [Chandler's Honesty](https://www.amazon.com/dp/B08YDT2XQG) - authored a series of mental health conversations with a unicorn since 2017.
 - [The Elevator Debate](https://adelaidebooks.org/the-elevator-debate) - composed a flash fiction story about a political disagreement between co-workers.
-
-## Video Game Publications
-
-- [Chaste Tris](https://store.steampowered.com/app/1986120/Chaste_Tris/) - Published a relaxing clone of Tetris with no gravity to be used as a teaching tool. Released May 31, 2022.
-- [Chaste Chess](https://chastitywhiterose.itch.io/cpu-chaste-chess) - Published a small tool for creating animations of Chess games. Released on itch.io May 18, 2025.

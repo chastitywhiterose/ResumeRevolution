@@ -8,7 +8,7 @@ However, I do not write for AI and I refuse to be judged by it. I deserve to hav
 
 I know that a resume is written for an employer to be able to read quickly because when they are reading hundreds of resumes, it is quite time-consuming to read them if they are too long. For the highest chances of obtaining a job, the applicant must have a resume of one or two pages.
 
-However, I also know that this system can lead to problems. First of all, if a resume is short, then certainly many details are left out. There is no way that a few bullet points on my list of work history could explain everything I did in my over ten years at Hy-Vee. The information is also useless to someone who has neither shopped nor worked at the Hy-Vee grocery store.
+However, I also know that this system can lead to problems. First of all, if a resume is short, then certainly many details are left out. There is no way that a few bullet points on my list of work history could explain everything I did in my over ten years at Hy-Vee. The information is also useless to someone who has neither shopped nor worked at the Hy-Vee grocery store to understand the terminology specific to that company.
 
 Similarly, many companies would expect the applicant to have experience in Microsoft Word, but what they wouldn't know is that LibreOffice Writer could serve the same purposes as Microsoft Word and get the job done. Therefore, Free and Open-Source software experience will get overlooked by many employers who lack the education to know what they are reading on a resume.
 

@@ -1,10 +1,10 @@
 # Chastity's Resume Revolution
 
-What you are about to read is my document containing my resume and plenty of additional details that a short resume cannot cover. I use this information to create resumes depending on the need. This document gives me a common source which allows me to keep the information up to date.
+What you are about to read is my document containing my resume, work history, and plenty of additional details that a short resume cannot cover. I use this information to create resumes depending on the need. This document gives me a common source which allows me to keep the information up to date.
 
-One of the most valuable things I learned during my Full Sail portfolio classes was the fact that resumes are required to be read by Artificial Intelligence before some of them are passed to an actual employer who may hire a person for the job.
+One of the things I learned during my Full Sail University portfolio classes was the fact that resumes are required to be read by Artificial Intelligence before some of them are passed to an actual employer who may hire a person for the job.
 
-The implications of this are both negative and positive. On the one hand, it makes writing a good resume harder because it must be able to be read by a machine easily but at the same time look good to an actual human. However, the addition of AI into the mix also means that there is theoretically an objective method by which a resume can be judged.
+However, I do not write for AI and I refuse to be judged by it. I deserve to have a real person read my information just as my ancestors did before there was AI. I refuse to be lazy and let AI write my resume for me and I will not work with those who never read what I have to offer because the machine never passed it onto a real person.
 
 I know that a resume is written for an employer to be able to read quickly because when they are reading hundreds of resumes, it is quite time-consuming to read them if they are too long. For the highest chances of obtaining a job, the applicant must have a resume of one or two pages.
 
@@ -33,8 +33,7 @@ I am a Technical Writer. My best genre of writing is when I am writing about how
 
 ## Summary
 
-Chastity is a writer with a focus on making Chess accessible to low-income people through free and open source 
-software. She uses words, videos, and graphic design to teach Chess and computer software.
+Chastity is a writer who specialized on teaching intelligent activities like Chess and computer Programming accessible to low-income people with books and Free and Open Source Software. She makes no money from these things and works grocery store jobs to survive.
 
 ## Skills
 
@@ -43,7 +42,8 @@ software. She uses words, videos, and graphic design to teach Chess and computer
 - Graphic Design (Inkscape and GIMP)
 - Video Recording (OBS-Studio, Zoom, StreamYard)
 - Audio/Video Editing (Audacity, Kdenlive)
-- Book Publishing (Kindle Direct Publishing, Draft2Digital)
+- Book Publishing (Kindle Direct Publishing, Draft2Digital,Leanpub)
+- Computer Programming (C, Assembly)
 
 ## Education
 
@@ -55,20 +55,31 @@ software. She uses words, videos, and graphic design to teach Chess and computer
 
 ## Wal-Mart
 
-- Overnight Stock Team Associate - September 2023 - Present
+### Overnight Maintenance Associate - October 2025 - Present
+
+- Sweeps, mops, and scrubs floors with proper equipment
+- Loads and unloads trucks
+- Makes cardboard bales
+- Cleans bathrooms and empties trash of whole store
+
+### Overnight Stock Team Associate - September 2023 - October 2025
+
 - Stocked Food and General Merchandise until 5 AM. Moved to other departments as instructed.
 - Removed all trash and pallets from floor before customers arrive at store opening and then assist customers in locating and purchasing merchandise. Organized shelves until 7 AM.
 - Start work in assigned area at 10 PM. Report work progress to Coaches and Team Leads through the night.
 
 ## GameStop
-- Game Advisor - June 2022 - February 2024
+
+### Game Advisor - June 2022 - February 2024
+
 - Greeted customers and sold requested games and merchandise.
 - Answered technical questions based on experience and reading materials employees were given.
 - Promoted Gamestop Pro-Membership and explained how it saves money to recurring customers of over $60 annually.
 
 ## Hy-Vee
 
-- Floral Clerk and other Departments - October 2012 - July 2023
+### Floral Clerk and other Departments - October 2012 - July 2023
+
 - Stocked Health Market and Health and Beauty Department.
 - Wrote down Floral Delivery orders both in person and over the phone. Prepared these orders for pickup or delivery. Acted as Cashier at Floral Register. Regularly served over 100 customers on each Valentine's Day and Mother's Day.
 - Sold items to customers, watered plants, and cleaned the shop before closing at 7 PM.
@@ -83,6 +94,7 @@ files per hour.
 ## Book Publications
 
 - [Chastity's Chess Chapters](https://www.amazon.com/dp/B0F44DG4XD) - authored a 100 page paperback and e-book to train Chess players.
+- [Assembly Arithmetic Algorithms-DOS](https://leanpub.com/assemblyarithmeticalgorithms-dos) - authored a book on Assembly language for the DOS operating system.
 - [Minimal Markdown for Authors](https://www.amazon.com/Minimal-Markdown-Authors-Publish-Software/dp/B0FJ7HHLK8) - How to Write and Publish a Book Using Open Source Software
 - [Chandler's Honesty](https://www.amazon.com/dp/B08YDT2XQG) - authored a series of mental health conversations with a unicorn since 2017.
 - [The Elevator Debate](https://adelaidebooks.org/the-elevator-debate) - composed a flash fiction story about a political disagreement between co-workers.

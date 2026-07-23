@@ -82,3 +82,36 @@ files per hour.
 - [Minimal Markdown for Authors](https://www.amazon.com/Minimal-Markdown-Authors-Publish-Software/dp/B0FJ7HHLK8) - How to Write and Publish a Book Using Open Source Software
 - [Chandler's Honesty](https://www.amazon.com/dp/B08YDT2XQG) - authored a series of mental health conversations with a unicorn since 2017.
 - [The Elevator Debate](https://adelaidebooks.org/the-elevator-debate) - composed a flash fiction story about a political disagreement between co-workers.
+
+## Video Game Publications
+
+- [Chaste Tris](https://store.steampowered.com/app/1986120/Chaste_Tris/) - Published a relaxing clone of Tetris with no gravity to be used as a teaching tool. Released May 31, 2022.
+- [Chaste Chess](https://chastitywhiterose.itch.io/cpu-chaste-chess) - Published a small tool for creating animations of Chess games. Released on itch.io May 18, 2025.
+
+# Software Skills
+
+I have provided a summary of the top skills or software tools I have experience in.
+
+## Markdown
+
+Markdown is a Markup language that is an alternative to HTML. I have used it to save me time when writing books and essays for school assignments. The strength of Markdown is that it does not depend on specific software or operating systems because it is a pure text language.
+
+## LibreOffice
+
+I have been using LibreOffice and its older relative, OpenOffice, since my teenage years. The Writer part of the LibreOffice suite is what I have used for all documents where page sizes and numbers mattered. It was the only program I needed to publish my paperback books through Amazon from 2013 to 2024. After that, I started using Markdown in combination with LibreOffice to support quick writing and then formatting adjustments with LibreOffice when necessary.
+
+## Microsoft Word
+
+I learned to use Microsoft Word during my time at Full Sail University. I never had much personal interest in it because it would cost money to pay for a subscription, but it is not very different from LibreOffice Writer and can be used for any of the same tasks.
+
+## Inkscape
+
+Inkscape is the vector graphics program I use, which is equivalent to Adobe Illustrator in features. I used it to design all the pictures for my Chess book because I needed all the pieces and squares perfectly aligned to a grid. If someone needs a simple image made, I can usually come up with something in Inkscape quickly. I once designed a logo for someone, and they paid me $200 because they were very pleased with it.
+
+## Video Production
+
+I can stream and record videos using OBS Studio. Once I have a video file, I can do some basic editing, such as clipping, joining, and adding text and audio to any part of a video. I use Kdenlive as my video editor because it has the most features of any Open Source video editor I use.
+
+## Chess Teaching
+
+I am highly skilled at playing Chess as well as using the previously mentioned skills to write, design pictures, and record videos designed for teaching the rules and my favorite strategies for winning at Chess. More than anything, Chess can be used to measure the intelligence and patience of a person. The number one reason people lose at Chess and in life is because they resign too easily.

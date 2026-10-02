@@ -13,21 +13,12 @@
 - <https://chastitywhiterose.com/>
 - <https://chastitychesschallenge.com/>
 - <https://www.linkedin.com/in/chastity-rose-96aaa492/>
+- <https://leanpub.com/u/chastity-white-rose>
 - <https://linktr.ee/chastitywhiterose>
 
 ## Summary
 
-Chastity is a writer who specialized on teaching intelligent activities like Chess and computer Programming accessible to low-income people with books and Free and Open Source Software. She makes no money from these things and works grocery store jobs to survive.
-
-## Skills
-
-- Writing (Markdown, Pandoc, LibreOffice, Joplin, Simplenote, Microsoft Word)
-- Chess Teaching (lichess.org, chess.com, En-Croissant, ChessX)
-- Graphic Design (Inkscape and GIMP)
-- Video Recording (OBS-Studio, Zoom, StreamYard)
-- Audio/Video Editing (Audacity, Kdenlive)
-- Book Publishing (Kindle Direct Publishing, Draft2Digital,Leanpub)
-- Computer Programming (C, Assembly)
+I am a writer who specializes in teaching intelligent activities like Chess and computer Programming made accessible to low-income people with books and Free and Open Source Software. However, my recorded work history is all retail and warehouse jobs.
 
 ## Education
 
@@ -87,6 +78,16 @@ files per hour.
 
 - [Chaste Tris](https://store.steampowered.com/app/1986120/Chaste_Tris/) - Published a relaxing clone of Tetris with no gravity to be used as a teaching tool. Released May 31, 2022.
 - [Chaste Chess](https://chastitywhiterose.itch.io/cpu-chaste-chess) - Published a small tool for creating animations of Chess games. Released on itch.io May 18, 2025.
+
+## Skills
+
+- Writing (Markdown, Pandoc, LibreOffice, Joplin, Simplenote, Microsoft Word)
+- Chess Teaching (lichess.org, chess.com, En-Croissant, ChessX)
+- Graphic Design (Inkscape and GIMP)
+- Video Recording (OBS-Studio, Zoom, StreamYard)
+- Audio/Video Editing (Audacity, Kdenlive)
+- Book Publishing (Kindle Direct Publishing, Draft2Digital,Leanpub)
+- Computer Programming (C, Assembly)
 
 # Software Skills
 

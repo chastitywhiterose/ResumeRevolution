@@ -26,9 +26,15 @@ I am a writer who specializes in teaching intelligent activities like Chess and 
 
 - Associate of Applied Science in Creative Writing (A.A.S.) - July 2025
 
+### Metropolitan Community College-Longview
+
+- General Education Diploma
+
 # Experience
 
 ## Wal-Mart
+
+Location: 1000 NE Sam Walton Ln Lee's Summit, MO 64086
 
 ### Overnight Maintenance Associate - October 2025 - Present
 
@@ -45,6 +51,8 @@ I am a writer who specializes in teaching intelligent activities like Chess and 
 
 ## GameStop
 
+Location: 1041 NE Sam Walton Ln
+
 ### Game Advisor - June 2022 - February 2024
 
 - Greeted customers and sold requested games and merchandise.
@@ -53,6 +61,8 @@ I am a writer who specializes in teaching intelligent activities like Chess and 
 
 ## Hy-Vee
 
+Location: 301 NE Rice Road Lee's Summit, MO 64086
+
 ### Floral Clerk and other Departments - October 2012 - July 2023
 
 - Stocked Health Market and Health and Beauty Department.
@@ -60,6 +70,9 @@ I am a writer who specializes in teaching intelligent activities like Chess and 
 - Sold items to customers, watered plants, and cleaned the shop before closing at 7 PM.
 
 ## Brillient
+
+Location: 150 NW Space Center Loop Lee's Summit, MO 64064
+
 - General Clerk - June 2019 - April 2021
 - Kept records and tracked files at the National Records Center containing 17 million files.
 -  Sorted incoming files to the facility and entered barcode numbers into the computer database managed by the Department of Homeland Security. Maintained Data Entry quota of 400 files per hour.
@@ -70,6 +83,7 @@ files per hour.
 
 - [Chastity's Chess Chapters](https://www.amazon.com/dp/B0F44DG4XD) - authored a 100 page paperback and e-book to train Chess players.
 - [Assembly Arithmetic Algorithms-DOS](https://leanpub.com/assemblyarithmeticalgorithms-dos) - authored a book on Assembly language for the DOS operating system.
+- [Chastity's Code Cookbook](https://www.amazon.com/dp/B0GQT9FF33/) - Introduction and Reference for Computer Programming
 - [Minimal Markdown for Authors](https://www.amazon.com/Minimal-Markdown-Authors-Publish-Software/dp/B0FJ7HHLK8) - How to Write and Publish a Book Using Open Source Software
 - [Chandler's Honesty](https://www.amazon.com/dp/B08YDT2XQG) - authored a series of mental health conversations with a unicorn since 2017.
 - [The Elevator Debate](https://adelaidebooks.org/the-elevator-debate) - composed a flash fiction story about a political disagreement between co-workers.
